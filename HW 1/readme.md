@@ -18,7 +18,7 @@ Implemented two diffrent regression solution on Data-Train & Data-Test
 > <img src="https://user-images.githubusercontent.com/35997721/144423680-79f821f1-4fba-4701-93e2-720412f34f7b.png" width="200">
 
 
-### Closed Form Class
+### Closed Form Class 
 This class inherits from Regression class and 𝜃 is calculated as:
 
 > <img src="https://user-images.githubusercontent.com/35997721/144424240-bc6f9597-c068-41c2-9294-840ac704e999.png" width="200">
