@@ -21,7 +21,7 @@ Regression using Closed-Form Solution vs. Gradient Descent Solution
     - KDE
         - Kernel function -> Parzen window | Gaussian
     - KNN
-- Dimentionality resuction methods
+- Dimentionality reduction methods
     - PCA
     - FLDA (fisher linear discriminant analysis)
 
